@@ -11,3 +11,7 @@ Every day is an opportunity to learn, innovate, and grow. Whether architecting f
 _Favorite quote:_ **"Never Give Up, Never Give In."**
 
 Let’s connect and inspire each other to achieve more, no matter your industry or background.
+
+## Gists
+
+Here are my gists: [gists](https://gist.github.com/NickPolyder)
